@@ -107,6 +107,7 @@ minZoom: 0.5               // 最小缩放水平
 maxZoom: 60                // 最大缩放水平
 ```
 【参考文献】：
+
 [\[1\] GitHub.svg-pan-zoom library.](https://github.com/SparksFly8/svg-pan-zoom)
 
 [\[2\] Microsoft-Doc.How to Zoom and Pan with SVG.](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/samples/gg589508%28v=vs.85%29)
