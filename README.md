@@ -108,8 +108,13 @@ maxZoom: 60                // 最大缩放水平
 ```
 【参考文献】：
 [\[1\] GitHub.svg-pan-zoom library.](https://github.com/SparksFly8/svg-pan-zoom)
+
 [\[2\] Microsoft-Doc.How to Zoom and Pan with SVG.](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/samples/gg589508%28v=vs.85%29)
+
 [\[3\] 理解SVG坐标系和变换：视窗,viewBox和preserveAspectRatio.](https://www.w3cplus.com/html5/svg-coordinate-systems.html)
+
 [\[4\] 做一个具有异步加载特性的echarts-vue组件(懒加载).](https://segmentfault.com/a/1190000011230007#articleHeader9)
+
 [\[5\] echarts关系图异步加载数据.](https://blog.csdn.net/qq_37321253/article/details/77519802)
+
 [\[6\] 菜鸟教程.SVG在HTML页面.](http://www.runoob.com/svg/svg-inhtml.html)
